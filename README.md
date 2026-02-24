@@ -97,7 +97,7 @@ Focus Areas: C#, Databases, OOP in C#, Full Projects
 
 ### ⏳ Stage 2 Progress 
 
-<div style="overflow-x:auto;">
+<div align="center">
 
 | #  | Course                                                       | Progress  | Certificate | Projects |
 | -- | ------------------------------------------------------------ | --------- | ----------- | -------- |
@@ -131,7 +131,7 @@ Focus: Building scalable backend services exposed via APIs, bridging backend wit
 
 ### ⏳ Stage 3 Progress 
 
-<div style="overflow-x:auto;">
+<div align="center">
 
 | #  | Course                                                  | Progress  | Certificate | Projects |
 | -- | ------------------------------------------------------- | --------- | ----------- | -------- |
