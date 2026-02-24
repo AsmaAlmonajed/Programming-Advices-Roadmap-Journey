@@ -1,1 +1,146 @@
 # Programming-Advices-Roadmap-Journey
+
+## 📌 About This Repository
+
+Welcome to my personal learning journey! This repository follows the Programming Foundations Roadmap by Programming Advices. Here, I’m exploring each course step by step—completing lessons, tackling exercises, building practical projects, and reflecting on what I’ve learned. This space is my playground for growth, experimentation, and turning knowledge into real skills.
+
+---
+
+## 🗺 Official Roadmap Structure
+
+<p align="center">
+  <img src="https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/ProgrammingAdvices%20-%20RoadMap.png" width="950">
+</p>
+
+The roadmap is divided into progressive, color-coded stages:
+
+* 🔵 Core Foundations – Stage 1
+* 🟡 Backend & Advanced Foundations – Stage 2
+* 🟠 Backend Integration Layer – Stage 3
+* 🟢 Specialization Direction
+
+Each stage represents a deeper level of engineering skills.
+
+---
+
+# 🔵 Stage 1 – Core Programming Foundations
+
+Focus Areas: Logic, Algorithms, C++ Fundamentals, OOP, Data Structures
+
+### Courses
+
+| #  | Course Title                                     | Description |
+|----|--------------------------------------------------|-------------|
+| 01 | Programming Fundamentals for Every Programmer – Level One | I started my programming journey from scratch with this course, which covers the essential fundamentals every programmer needs. This course enhanced my programming skills step by step, making it easier for me to understand advanced programming concepts. These lessons became a solid foundation for me as I seek to excel in this field. |
+| 02 | Algorithms and Problem Solving – Level One      | This course provided me with an early explanation of algorithms and problem-solving skills, helping me build a deeper understanding of algorithms in a sequential and smooth manner. It focused on developing logical thinking and understanding, and enhanced my problem-analysis skills through a series of practical exercises and sequential challenges that I solved using a programming language. This prepared me to face various programming challenges in the future. |
+| 03 | Introduction to Programming in C++ – Level One | In this course, I continued my journey to acquire programming skills using the C++ language. The course covered the fundamental elements of the language and presented advanced programming concepts with many practical examples and exercises. I gained great experience in learning programming and analysis, which gave me a strong foundation in the field. The course enabled me to use this language efficiently, as it is considered one of the most important programming languages in the world. Learning this language allowed me to learn any other programming language in just a few days. |
+| 04 | Advanced Solutions to Algorithms – Level One   | This course provided advanced solutions to the challenges presented in the first level of the algorithms course. It offered deeper solutions that use more advanced programming methods. The course deepened my understanding of advanced programming techniques and enhanced my theoretical problem-solving skills. I developed my abilities through practical and technical applications, learning advanced and effective solutions that helped me save time and effort when dealing with more complex programming problems, and build more innovative solutions. |
+| 05 | Algorithms and Problem Solving – Level Two     | This course included 50 graded problems according to difficulty level, in addition to small projects presented at the end of the course. It was characterized by multiple solution methods for each problem, and it relied on advanced programming techniques such as “Divide and Conquer,” which helped me acquire high efficiency in solving problems. Each problem saved me from solving dozens of similar problems available on the internet. |
+| 06 | Introduction to Programming in C++ – Level Two | In this course, I delved into exploring advanced topics in the C++ programming language, focusing on learning and applying advanced techniques such as Object-Oriented Programming (OOP), improving performance efficiency, and enhancing applications. This course boosted my programming skills and enabled me to develop more complex and innovative programming solutions. |
+| 07 | Algorithms and Problem Solving – Level Three   | This course included 51 graded problems according to difficulty level, in addition to small projects presented at the end of the course. The course featured multiple solution methods for each problem, but it relied on advanced techniques such as Dynamic Programming and the Strategy pattern, which gave me high efficiency in solving problems. Each problem saved me from solving dozens of problems available on the internet. |
+| 08 | Algorithms and Problem Solving – Level Four    | This course included 65 graded problems according to difficulty level, in addition to small projects presented at the end of the course. The course featured multiple solution methods for each problem, but it relied on advanced techniques such as Dynamic Programming and the Strategy pattern, which gave me high efficiency in solving problems. Each problem saved me from solving dozens of problems available on the internet. |
+| 09 | Programming Fundamentals for Every Programmer – Level Two | In this course, I explored a simpler and more comprehensive explanation of programming concepts and Object-Oriented Programming (OOP). I focused on advanced programming techniques and worked through a set of practical examples that strengthened my understanding of how to develop software efficiently. Through these lessons, I gained a deeper understanding of how programs work and how different systems interact, forming a solid foundation for anyone seeking deeper knowledge and higher skills in development and software design. |
+| 10 | Object-Oriented Programming (OOP)             | In this course, I gained comprehensive knowledge of the principles and concepts of Object-Oriented Programming (OOP) in a smooth and enjoyable way. I learned how to apply these concepts efficiently in my daily programming projects. This course enabled me to develop software more effectively and in less time, which significantly improved my productivity and skills as a programmer. |
+| 11 | Applications of Object-Oriented Programming (OOP) | This course was a practical training program aimed at reinforcing and applying the concepts introduced in previous OOP courses through hands-on applications. I benefited from the highest possible level of training, building upon the previous courses that were designed to continuously develop my skills. |
+| 12 | Data Structures – Level One                    | Data structures are essential in programming for organizing and managing data efficiently, which directly affects application performance. In this course, I learned the fundamentals of data structures such as arrays, linked lists, stacks, and queues. I also explored advanced concepts like trees and graphs. By understanding how to properly choose and implement data structures, I became able to solve complex problems more effectively, improve my code, and significantly enhance application performance. |
+| 13 | Algorithms and Problem Solving – Level Five    | This course included eight small applied projects in the field of data structures that served as an excellent opportunity to expand my skills and deepen my understanding of programming. Through these projects, I applied fundamental data structure concepts in practical contexts, gaining experience in storing and organizing data efficiently. These practical exercises helped me enhance my technical skills and improve my problem-solving abilities, leading to designing and developing more advanced and efficient software applications. |
+
+---
+
+### ✅ Stage 1 Progress 
+
+<div align="center">
+
+| #  | Course                                     | Progress    | Certificate     | Projects |
+| -- | ------------------------------------------ | ----------- | --------------- | -------- |
+| 01 | Programming Fundamentals – Level 1         | ✅ Completed | [Click Here](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/Certificates/certificate-of-completion-for-programming-foundations-level-1.pdf) |          |
+| 02 | Algorithms and Problem Solving – Level 1   | ✅ Completed | [Click Here](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-1.pdf) |          |
+| 03 | Introduction to C++ – Level 1              | ✅ Completed | [Click Here](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf) |          |
+| 04 | Advanced Solutions to Algorithms – Level 1 | ✅ Completed | [Click Here](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf) |          |
+| 05 | Algorithms and Problem Solving – Level 2   | ✅ Completed | [Click Here](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-2.pdf) | [Stone_Paper_Scissor](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/blob/main/Projects/Course05/Project%201%20Stone_Paper_Scissor), [Math_Game](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/blob/main/Projects/Course05/Project%202%20Math_Game), [Dice Game](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/blob/main/Projects/Course05/Project%203%20Dice%20Game) |
+| 06 | Introduction to C++ – Level 2              | ✅ Completed | [Click Here](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf) | [MaghribCountdown](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/blob/main/Projects/Course06/Project%204%20MaghribCountdown) |
+| 07 | Algorithms and Problem Solving – Level 3   | ✅ Completed | [Click Here](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-3.pdf) | [Bank1](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/blob/main/Projects/Course07/Project%205%20Bank1), [Bank Extension](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/blob/main/Projects/Course07/Project%206%20Bank%20Extension) |
+| 08 | Algorithms and Problem Solving – Level 4   | ✅ Completed | [Click Here](#) |          |
+| 09 | Programming Fundamentals – Level 2         | ✅ Completed | [Click Here](https://github.com/AsmaAlmonajed/Programming-Advices-Roadmap-Journey/raw/main/Certificates/certificate-of-completion-for-09-foundations-level-2.pdf) |          |
+| 10 | Object-Oriented Programming (OOP)          | ⬜ Pending   |                 |          |
+| 11 | Applications of OOP                        | ⬜ Pending   |                 |          |
+| 12 | Data Structures – Level 1                  | ⬜ Pending   |                 |          |
+| 13 | Algorithms and Problem Solving – Level 5   | ⬜ Pending   |                 |          |
+
+</div>
+
+---
+
+# 🟡 Stage 2 – Backend & Advanced Foundations
+
+Focus Areas: C#, Databases, OOP in C#, Full Projects
+
+### Courses
+
+| #  | Course Title                                     | Description |
+|----|--------------------------------------------------|-------------|
+| 14 | Programming Using C# – Level One                 | In this course, I began learning the C# programming language, one of the strongest and most in-demand languages in the job market. C# enabled me to build a variety of applications such as desktop applications, web applications, and more. I learned the fundamentals of the language and then moved on to developing Windows Forms applications. I also discovered new concepts and techniques that helped me move forward confidently in the field of programming. |
+| 15 | Databases – Level One Using SQL Server          | Databases are considered one of the essential topics that every programmer must understand deeply, as they are fundamental to creating and managing applications. This course provided me with comprehensive knowledge on designing and managing databases using SQL Server. I learned how to create databases, write SQL queries, and manage data efficiently. The course focused on practical implementation to ensure I gained real-world experience and strong expertise. |
+| 16 | Object-Oriented Programming (OOP) in C#        | In this course, I deepened my understanding of OOP principles and concepts using the C# language in a smooth and simplified way. I explored how to apply these concepts effectively in my projects. By the end of the course, I was able to build large and scalable applications in less time and with higher efficiency, further enhancing my competence and professionalism as a programmer. |
+| 17 | Applications and Projects on Databases         | Knowledge alone is not enough without practical application. In this course, I moved from theory to practice by building five diverse projects and solving 54 exercises using SQL. This course not only strengthened my understanding of databases but also developed my practical skills in analyzing and solving problems. As a result, I became more capable of handling real-world data confidently and efficiently, making my work easier and increasing my effectiveness in this field. |
+| 18 | Networking and Connecting with Databases       | In this course, I focused on acquiring the necessary skills to connect to databases using C# and ADO.NET. I learned how to link applications with databases, retrieve and update data, and secure it using the proper techniques available in .NET. The course included studying connection concepts, executing commands, handling errors, and managing connections effectively. By applying these principles in practical projects, I was able to build strong and efficient applications that interact smoothly with databases. |
+| 19 | Real-World Integrated Project                  | In this course, I selected and implemented a complete and integrated real-world project. Through it, I applied all the concepts and skills I had learned. This project helped me gain a deeper understanding of how real-world systems and software work. I also strengthened my ability to analyze and deal with real programming challenges. This experience enhanced my practical skills and enabled me to focus on innovation and creativity in software development. |
+| 20 | Programming Using C# – Level Two               | In this course, I dived into advanced topics in C# programming. I learned technical concepts that helped me develop applications more effectively and efficiently. I understood how to organize code in a better way and use advanced tools and techniques in C# to increase code reusability and speed up development. By applying these concepts in practical projects, I was able to build robust and organized applications, giving me a strong advantage in the job market. All advanced topics covered in this course are shared across most programming languages, making it easier for me to transition smoothly between different languages. |
+| 21 | Databases – Level Two (T-SQL Language)         | Databases are a vital topic for every programmer, as more than 90% of applications rely on them. This course focused on advanced database programming using T-SQL, the comprehensive language that every programmer should master. It enhanced the concepts I learned in the first level and strengthened my ability to optimize performance and handle data professionally and efficiently. |
+| 22 | Data Structures – Level Two                     | This course provided a deeper exploration of advanced data structures beyond the basics. It focused on improving data management and enhancing algorithmic strategies. I gained practical experience in using these tools to solve advanced programming challenges effectively. I developed a strong understanding of data structures and acquired the necessary skills to excel in programming and problem-solving in the technology field. |
+| 23 | Algorithms and Problem Solving – Level Six     | This course presented 20 advanced and complex algorithmic problems designed specifically for programmers aiming to improve their programming efficiency and compete in programming contests or advance professionally. The course provided comprehensive practical training, covering advanced application topics and complex solutions. I acquired the skills needed to become a professional in the tech field and build a strong competitive edge in the industry. |
+| 24 | Windows Services                               | Learning Windows Services provided multiple benefits for professionals in the field of information technology. It enhanced my understanding of system efficiency and security and enabled continuous operation of applications and services that run in the background. By understanding Windows Services, I became able to manage systems more effectively, improve cybersecurity, and handle complex operations—especially in large enterprise environments—making these skills highly valuable in the industry. |
+
+---
+
+### ⏳ Stage 2 Progress 
+
+<div align="center">
+
+| #  | Course                                   | Progress  | Certificate | Projects |
+| -- | ---------------------------------------- | --------- | ----------- | -------- |
+| 14 | Programming Using C# – Level 1           | ⬜ Pending |             |          |
+| 15 | Databases – Level 1                      | ⬜ Pending |             |          |
+| 16 | Object-Oriented Programming (OOP) in C#  | ⬜ Pending |             |          |
+| 17 | Applications and Projects on Databases   | ⬜ Pending |             |          |
+| 18 | Networking and Connecting with Databases | ⬜ Pending |             |          |
+| 19 | Real-World Integrated Project            | ⬜ Pending |             |          |
+| 20 | Programming Using C# – Level 2           | ⬜ Pending |             |          |
+| 21 | Databases – Level 2 (T-SQL)              | ⬜ Pending |             |          |
+| 22 | Data Structures – Level 2                | ⬜ Pending |             |          |
+| 23 | Algorithms & Problem Solving – Level 6   | ⬜ Pending |             |          |
+| 24 | Windows Services                         | ⬜ Pending |             |          |
+
+</div>
+
+---
+
+# 🟠 Stage 3 – Backend Integration Layer
+
+Focus: Building scalable backend services exposed via APIs, bridging backend with frontend systems.
+
+| #  | Course Title                       | Description |
+|----|------------------------------------|-------------|
+| 25 | Introduction to RESTful API         | In this course, I learned the fundamentals of RESTful APIs, including how to design, develop, and consume APIs effectively. The course covered HTTP methods, endpoints, request/response structure, status codes, and authentication techniques. I practiced building and testing APIs that communicate smoothly between backend and frontend systems, which strengthened my understanding of web services and modern application architecture. |
+| 26 | SOLID Principles                    | In this course, I explored the SOLID principles of object-oriented programming to write cleaner, maintainable, and scalable code. I learned how to apply Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion principles in practical projects. These concepts enhanced my coding practices and prepared me to develop robust software following professional design standards. |
+
+---
+
+### ⏳ Stage 3 Progress 
+
+<div align="center">
+
+| #  | Course                      | Progress  | Certificate | Projects |
+| -- | --------------------------- | --------- | ----------- | -------- |
+| 25 | Introduction to RESTful API | ⬜ Pending |             |          |
+| 26 | SOLID Principles            | ⬜ Pending |             |          |
+
+</div>
+
+---
+
+# © Copyright
+Copyright © 2026 Asma Almonajed<br>
+All rights reserved.
+
+---
